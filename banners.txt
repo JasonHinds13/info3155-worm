@@ -1,0 +1,1856 @@
+--iapp IEEE . WLANs WG IAPP
+3Com 3CDaemon FTP Server Version 2.0
+A (AN-AN)
+A cross-platform hard disk temperature monitoring daemon
+ACAP server of Communigate (www.stalker.com)
+ACR-NEMA Digital Imag. & Comm. 
+AED Emulation Service
+AFP over TCP 
+ALC Protocol 
+ANSA REX Notify
+ANSA REX Trader
+AODV
+APC 
+AS Server Mapper
+ATEXSSTR 
+Ability Server 
+Ability Server 2.34
+Abyss web server remote web management interface
+Access Technology License Server
+Administration Server Access
+Administration Server Connector
+AdobeARMservice
+Aeolon Core Protocol
+Air Soft Power Burst
+Amanda indexing
+Amanda tape indexing
+Apache JServ Protocol .
+Apache JServ Protocol .x
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.14
+Apple IMAP mail admin
+Apple Mac Xserver admin
+Apple OS X WebAdmin 
+Apple Software Restore
+Apple iPhoto sharing
+AppleTalk Echo
+AppleTalk Name Binding
+AppleTalk Routing Maintenance
+AppleTalk Unused
+AppleTalk Zone Information
+ApplianceWare managment protocol
+AquaMinds NoteShare
+Audio News Multicast
+BINKP 
+BOINC Client Control 
+BSD supdupd()
+BSD supdupd(8)
+Back Orifice K BoPeep mouse/keyboard input
+Back Orifice K BoPeep video output
+Back Orifice K Default Port
+Backup Express Restore Server
+Beckman Instruments, Inc. 
+Berkeley rlogind with SPX auth
+Berkeley rshd with SPX auth
+BitTorrent tracker
+BlackIce Alerts sent to this port
+Bloomberg intelligent client
+Bloomberg professional
+BoKS Clntd
+BoKS Master
+Board M.I.T. Service 
+Border Gateway Protocol
+Britton-Lee IDM
+Brodos Crypto Trade Protocol
+CA Audit Distribution Agent 
+CA eTrust RPC 
+CCProxy Telnet Service Ready
+CDDBP
+CIMPLEX
+CMIP Manager
+CORBA IIOP SSL
+CRONUS-SUPPORT
+CSlistener
+Cadview-d - streaming d models over the internet
+Carracho file sharing
+Certificate Distribution Center
+Check Point Clustering
+Cisco Address Validation Protocol
+ClearCommerce Engine .x (www.clearcommerce.com)
+CodeMeter Standard
+ColdFusion Advanced Security/Siteminder Authentication Port (by Allaire/Netegrity)
+ColdFusion Advanced Security/Siteminder Authentication Port (by Allaire/Netegrity) 
+Collaborator
+Com AMP
+Com CDaemon FTP Server Version 1
+Common FTP proxy port
+Common HTTP proxy/second web server port
+Common Trace Facility
+Common alternative https port
+CommonTime Mnotes PDA Synchronization
+Commtact HTTP 
+Compaq EVM
+Compaq Web-based management 
+Condor Collector Service
+Cray Network Semaphore server
+Cray SFS config server
+Cray Unified Resource Manager
+Crestron Control Port
+Crestron Terminal Port 
+Cross-platform Music Multiplexing System
+Crypto Admin
+Cumulus 
+Cumulus Admin Port
+Customer IXChange
+DBISAM Database Server - Admin 
+DBISAM Database Server - Regular
+DCTP
+DECLadebug Remote Debug Protocol
+DEI-ICDA
+DHCP Failover
+DHCP/Bootstrap Protocol Client
+DHCP/Bootstrap Protocol Server
+DIXIE Protocol Specification
+DMTF out-of-band web services management protocol
+DNP
+DNSIX Securit Attribute Token Map
+DNSIX Session Mgt Module Audit Redir
+DTAG, or bhoedap 
+Databeam Corporation
+Dell OpenManage
+Device Control Protocol
+Digital Audit Daemon
+Direct Play Server 
+Display Support Protocol
+Distinct
+Distributed External Object Store
+Distributed SCADA Networking Rendezvous Port
+Dragon IDS Console
+Dropbox LanSync Protocol 
+DynamID authentication
+Dynamic Device Discovery
+EAX MTS Server 
+EMC Replication Manager Client
+EMC-Documentum Content Server Product
+EMFIS Control Service
+ESMTP TABS Mail Server for Windows NT
+ESRO-EMSDP V.
+Embedded Light Control Network
+EmpowerID Communication
+EtherNet/IP- EtherNet/IP I/O
+Eudora compatible PW changer
+FCP
+FODMS FLIP
+FW management console for communication w/modules and also secure electronic transaction (set) port
+FileMaker, Inc. - HTTP Alternate
+FileNet BPM WS-ReliableMessaging Client
+Filenet RPC
+Filenet TMS
+FireScope Agent 
+FirstClass Protocol 
+FlexFax FAX transmission service
+Flight Message Transfer Protocol
+FreeFloat Ftp Server (Version 1)
+FreeFloat Ftp Server (Version 1.00)
+GKrellM remote system activity meter daemon 
+GNU Generation Foundation NCP 
+GSI dCache Access Protocol 
+GSS X License Verification
+Gateway Access Control Protocol
+Genesis Point-to-Point Trans Net, or x ISO Email
+Genie Protocol
+Git revision control system
+Groove GLRPC 
+H./Q. Interactive media
+HAP
+HELLO_PORT
+HMMP Indication
+HMMP Operation
+HOSTS Name Server
+HOSTS2 Name Server
+HP OpenView Bus Daemon
+HTTP RPC Ep Map
+Hardware Control Protocol Wismar
+Hiperscan Identification Service
+Htuil Server for PLD
+HylaFAX client-server protocol
+Hypack Hydrographic Software Packages Data Acquisition
+IBM AURORA Performance Visualizer
+IBM DB
+IBM Enterprise Extender SNA COS High Priority
+IBM Enterprise Extender SNA COS Network Priority
+IBM HTTP server
+IBM NetView DM/ Server/Client
+IBM NetView DM/ receive
+IBM NetView DM/ send
+IBM Operations Planning and Control Start
+IBM System Resource Controller
+ICECap user console
+IEEE MMS
+IIS 
+IMAP4rev1 MDaemon 9.6.4 ready
+IMAPrev MDaemon 
+IMP Logical Address Maintenance
+IRISA
+ISI Graphics Language
+ISO-TSAP Class 
+ISS System Scanner Agent
+ISS System Scanner Console
+ITACTIONSERVER 
+IUA
+IWGADTS Aircraft Housekeeping Message
+Id Software Doom
+Intel(R) AMT SOAP/HTTP
+Intel(R) AMT SOAP/HTTPS 
+Interactive Mail Access Protocol v
+Interactive Mail Support Protocol
+Intergraph 
+Interim Mail Access Protocol v
+Internet Citizen's Band
+Internet Configuration Manager
+Internet Printing Protocol 
+Internet Relay Chat
+Internet/Intranet Input Method Server Framework 
+Interwise
+JMB-CDS 
+KNET/VM Command/Message Protocol
+Kerberos (v)
+Kerberos (v/v)
+Kerberos (v5)
+Kerberos encrypted remote shell -kfall
+Kerberos to ticket xlator
+Key Server for SASSAFRAS
+Key Shadow for SASSAFRAS
+Kuang backdoor
+LANDesk Gateway
+LANDesk Management Agent (cba)
+LDAP over SSL
+LSA-or-nterm nterm remote_login network_terminal
+Label Distribution
+Legato NetWorker
+Legato portmapper
+Legent Corporation (now Computer Associates Intl.)
+Lightweight Directory Access Protocol
+Locus PC-Interface Conn Server
+Locus PC-Interface Net Map Ser
+Login Host Protocol (TACACS)
+MATIP Type A
+MATIP Type B or bhoetty also safetp
+MCER Port 
+MDC Port Mapper
+MICROMUSE-NCPW 
+MIT Dover Spooler
+MIT ML Device
+MPM FLAGS Protocol
+MSG Authentication
+MSG ICP
+MUSE
+MVS Capacity
+MXI Generation II for z/OS
+MacOS Server Admin
+MailEnable Service
+MailEnable Service, Version: 0-1.54
+McIDAS Data Transmission Protocol
+MeComm
+MeRegister
+Meeting maker
+Message Processing Module [recv]
+Message System
+Metagram Relay
+Metasys 
+MicroSAN
+Microsoft RPC services
+Microsoft rome
+Microsoft shuttle
+Mm Services
+MonkeyCom
+MpIdcMgr 
+Mulberry Connect Reporting Service
+Multi Protocol Trans. Net.
+Multicast Event
+N-RMGMT
+NETBIOS Datagram Service
+NETBIOS Name Service
+NETBIOS Session Service
+NFS-or-IIS IIS, NFS, or listener RFS remote_file_sharing
+NSS Agent Manager 
+NSW User System FE
+Napster File (MP) sharing software
+NetBus backdoor trojan 
+NetBus backdoor trojan or Trend Micro Office Scan
+NetDecision-HTTP-Server 
+NetDecision-HTTP-Server 1.0
+NetIQ Endpoint
+NetOp Remote Control 
+Network News Transfer Protocol
+Network Printing Protocol
+Network Time Protocol
+NewS window system
+Newbay Mobile Client Update Service 
+Nitrogen Service
+Novell Jetstream messaging protocol
+Nping echo server mode 
+NuPaper Session Service 
+ODBC Pathway Service
+OMA Dynamic Content Delivery over CBS
+OMA Mobile Location Protocol
+OMA Mobile Location Protocol Secure
+OSM Applet Server
+OSU Network Monitoring System
+OWAMP-Control
+Octopus Multiplexer
+Office Tools Pro Receive
+Oracle Application Server HTTPS
+Oracle SQL*NET
+Overlay Transport Virtualization (OTV)
+Overnet file sharing 
+PCMail Server
+PFTP
+PGP Public Key Server 
+PIM over Reliable Transport
+PROFILE Naming System
+PSO Proxy 
+PSO Proxy 0.9
+PSSC
+Pago Services 
+Palace-
+Pangolin Identification
+PassGo Tivoli
+Password Generator Protocol
+Perman I Interbase Server
+Philips Video-Conferencing
+Pichat Server
+Ping Discovery System
+Piranha
+PlayStation App Port
+Polipo open source web proxy cache
+PostOffice V.
+Primary Agent Work Notification
+PrivateArk Remote Agent 
+PrivateWire
+Privoxy
+Prospero Directory Service
+Prospero Resource Manager Sys. Man.
+Proxy+ HTTP proxy port 
+PureNoise
+Python Documentation Server
+QB DB Dynamic Port
+QB Database Server
+Qmail Quick Mail Queueing
+Quaz trojan worm
+Queued File Transport
+QuickObjects secure port
+RAQMON PDU
+RDA
+RETS-or-BackupExec Backup Exec Agent Accelerator and Remote Agent also sql server and cisco works blue
+RLZ DBase
+RMC
+RSFTP
+RSIP Port
+RTPS Data-Distribution Meta-Traffic
+RTPS Discovery
+RTSPS 
+Radan HTTP
+Radmind protocol (deprecated)
+Real Time Stream Control Protocol
+Registry Registrar Protocol (RRP)
+Reliable Syslog Service
+Remote MT Protocol
+Remote Mail Checking Protocol
+RepCmd
+Route Access Protocol
+SAC Port Id
+SAMBAR
+SANE Control Port
+SANity
+SCO System Administration Server
+SCO Web Server Manager 
+SCO WebServer Manager
+SCOTTY High-Speed Filetransfer
+SCP Configuration
+SLNP (Simple Library Network Protocol) by Sisis Informationssysteme GmbH
+SMB directly over IP
+SMC-HTTP
+SNA Gateway Access Server
+SNMP Unix Multiplexer
+SOAP Service Port
+SOAP over BEEP
+SPMP
+SQL Services
+SSLshell
+SU/MIT Telnet Gateway
+SUA
+SUP server
+SYPECom Transport Protocol
+SafetyNET p 
+Sami FTP Server 
+Sami FTP Server 2.0.2
+Samsung Twain for Network Server
+Saris
+ScriptView Network
+Secure Data Replicator Protocol
+Secure Shell Login
+Secure telnet 
+SecureNet Pro Sensor https management server or apple airport admin
+Sender-Initiated/Unsolicited File Transfer
+Senomix Timesheets Server 
+Server Location 
+Service Status update (Sterling Software)
+Service Tags
+Session Announcement v
+Session Director 
+Silhouette User
+Simple File Transfer Protocol
+Simple Mail Transfer
+Simple Network Paging Protocol
+Simplify Media SPP Protocol
+Software Essentials Secure HTTP server
+Solaris SEA Port 
+Sophos Remote Management System
+Spider Remote Monitoring Protocol
+Spipe 
+Spipe 1.0
+Statistics Service
+Subseven Windows trojan 
+Sun Answerbook HTTP server
+Sun App Server - JMX/RMI
+Sun AppSvr JPDA
+Sun DR
+Sun IPC server
+Sun Web Server Admin Service
+SurfPass 
+Surveillance Data
+Swift Remote Virtural File Protocol
+SynOptics Port Broker Port
+SynOptics SNMP Relay Port
+SysInfo Service Protocol
+Systemwalker Desktop Patrol
+T-Mobile Client Wakeup Message
+TACACS-Database Service
+TAMBORA
+TIA/EIA/IS- modem server
+TINC
+TRAM 
+TUNNEL
+TelSrv 
+TelSrv 1.5
+TenFold
+Teradata ORDBMS
+Texar Security Port
+Texas Instruments C/G Terminal
+The Swiss Exchange
+Tivoli Object Dispatcher
+Tobit David Replica
+Tobit David Service Layer
+Tofino Security Appliance
+Tor ControlPort 
+Tor ORPort
+Tor SocksPort
+Tor TransPort
+Transport Independent Convergence for FNA
+Transport Management Interface
+Trap Convention Port
+Trinoo distributed attack tool Master server control port 
+Trivial Authenticated Mail Protocol
+Trivial File Transfer
+Two-way Active Measurement Protocol (TWAMP) Control 
+UFS-aware server 
+UUCP Path Service
+Ultraseek HTTP
+Unidata LDM Version 
+Uninterruptible Power Supply
+Unisys ARPs
+Unisys Audit SITP 
+Utilistor (Server)
+VACDSM-SWS
+VCOM Tunnel
+VPPS Via
+VPPS-QUA
+Veritas Network Utility 
+Viral Computing Environment (VCE) 
+Virtual Presence Protocol
+Virtual Prototypes License Manager
+Virtual Racing Service
+Vocaltec Web Conference 
+Vormetric Service II
+Vormetric service
+WAP connectionless session services
+WAP secure connectionless session service
+WAP vCal Secure
+WDaemon 
+WDaemon 6.8.5
+WSO ESB Administration Console HTTPS
+WSO Tungsten HTTPS
+WatchMe Monitoring 
+WinGate 
+WinGate 6.1.1
+Wnn (Dserver) 
+Wnn (Japanese input) 
+Workstation Solutions
+World Wide Web HTTP
+WorldScores
+X Display Mgr. Control Proto
+X Font Service
+X Window System
+X Window server
+XAMPP v1.0
+XAMPP v3.2.2
+XFER Utility
+XFR 
+XML-RPC over BEEP
+XMPP File Transfer 
+XNS Authentication
+XNS Clearinghouse
+XNS Mail
+XNS Time Protocol
+Xitami
+Xprint Server
+YahooPOPs! Simple Mail Transfer Service Ready
+Zebra server
+Zeus admin server 
+aal-lm Active Analysis Limited License Manager
+abatjss ActiveBatch Job Scheduler
+abcsoftware abcsoftware-
+abr-api ABR-API (diskbridge)
+acc-raid ACC RAID
+accelenet AcceleNet Control
+accessbuilder or Audio CD Database
+accessnetwork Access Network
+ace-proxy ACE Proxy
+acms Aircraft Cabin Management System
+acp-conduit Compute Pool Conduit
+acp-policy Compute Pool Policy
+active-net Active Networks
+activesync Microsoft ActiveSync PDY synchronization
+adap App Discovery and Access Protocol
+adapt-sna Network Software Associates
+adobeserver- ADOBE SERVER 
+adobeserver- Adobe Server 
+ads ADS
+advocentkvm Advocent KVM Server
+aeroflight-ads AeroFlight ADs
+af AudioFile
+afesc-mc AFE Stock Channel M/C
+affiliate Affiliate
+afrog Subnet Roaming
+afs AFS License Manager
+agcat Auto-Graphics Cataloging
+agentsease-db aes_db
+agentx AgentX
+agps-port AGPS Access Port
+ah-esp-encap AH and ESP Encapsulated in UDP packet
+aimpp-port-req AIMPP Port Req
+aipn-reg AIPN LS Registration
+airport-admin Apple AirPort WAP Administration
+airshot Air Shot
+alesquery ALES Query
+alias Alias Service
+allstorcns ALLSTORCNS
+also yak winsock personal chat
+alta-ana-lm Alta Analytics License Manager
+altav-remmgt 
+altovacentral Altova DatabaseCentral
+amiganetfs Amiga Network Filesystem
+amp AMP
+ampr-info 
+amqp AMQP
+ams AMS
+amt-esd-prot AMT-ESD-PROT
+amx-icsp AMX-ICSP
+amx-rms AMX Resource Management Suite
+amx-weblinx AMX-WEBLINX
+an-pcp Astare Network PCP
+analogx AnalogX HTTP proxy port
+ansoft-lm- Anasoft License Manager
+ansys-lm ANSYS-License manager
+ansysli ANSYS Licensing Interconnect
+ansyslmd 
+anynetgateway 
+aocp Axapta Object Communication Protocol
+aol America-Online. Also can be used by ICQ
+aol- AmericaOnline
+apc- APC 
+apc-agent American Power Conversion
+apcupsd Apcupsd Information Port
+apdap Anton Paar Device Administration Protocol
+apex-edge APEX endpoint-relay service 
+apex-mesh APEX relay-relay service
+aplx MicroAPL APLX
+apocd Java Desktop System Configuration Agent
+apple quick time
+apple-licman Apple Network License Manager
+apple-sasl Apple SASL
+apple-vpns-rp Apple VPN Server Reporting Protocol
+appleshare ip webadmin
+appliance-cfg APPLIANCE-CFG
+applusservice APplus Service
+appserv-http App Server - Admin HTTP 
+appss-lm appss license manager
+apxapi- Audio Precision Apx API Port 
+arcpd Adaptec Remote Protocol
+arcserve ARCserve agent
+ardus-cntl ARDUS Control
+ardus-mtrns ARDUS Multicast Transfer
+ardusmul ARDUS Multicast
+arepa-cas Arepa Cas
+asap-tcp RSerPool ASAP (TCP)
+asci-val ASCI-RemoteSHADOW
+aspeclmd 
+aspentec-lm Aspen Technology License Manager
+asprovatalk ASPROVATalk
+assuria-slm Assuria Log Manager
+atex_elmd Atex Publishing License Manager
+atmtcp 
+ats Advanced Training System Program
+attachmate-uts Attachmate UTS
+audio-activmail Audio Active Mail
+autocuesmi Autocue SMI Protocol
+autodesk-lm Autodesk License Manager
+autodesk-nlm Autodesk NLM (FLEXlm)
+availant-mgr 
+avanti_cdp Avanti Common Data
+avenue AVENUE
+avocent-adsap Avocent DS Authorization
+avocent-proxy Avocent Proxy Protocol
+avsecuremgmt Avocent Secure Management
+avt-profile- RTP control protocol [RFC ][RFC ]
+avt-profile- RTP media data [RFC ][RFC ]
+axon-lm Axon License Manager
+azeti Azeti Agent Service
+b-runtime b Runtime Protocol
+backup-express Backup Express
+backupedge BackupEDGE Server
+backupexec Backup Exec UNIX and //ME Aent
+bbn-mmc multi media conferencing
+bbn-mmx multi media conferencing
+bcinameservice BCI Name Service
+bears- 
+beorl BE Operations Request Listener
+beserver-msg-q VERITAS Backup Exec Server
+bfd-control BFD Control Protocol
+bgpd BGPd vty
+bigbrother Big Brother monitoring server - www.bb.com
+binderysupport Bindery Support
+bip BioAPI Interworking
+blaze Blaze File Server
+blueberry-lm Blueberry Software License Manager
+bmap Bull Apprise portmapper
+bmc-ea BMC EDV/EA
+bn Backup To Neighbor
+bnetgame Battle.net Chat/Game Protocol
+boinc BOINC Client Control or Microsoft IIS
+borland-dsj Borland DSJ
+bpcd client
+bpdbm server
+bpjava-msvc client
+bprd server
+bre BRE (Bridge Relay Element)
+bridgecontrol Bridge Control
+brlp- Braille protocol
+broker_service Broker Service
+brvread BRVREAD
+bsquare-voip BSQUARE-VOIP
+btrieve Btrieve port
+bts-x BTS X Port
+busboy 
+bv-agent BindView-Agent
+bv-ds BindView-DirectoryServer
+bv-is BindView-IS
+bv-queryengine BindView-Query Engine
+bv-smcsrv BindView-SMCServer
+bvcontrol 
+bvtsonar BVT Sonar Service
+c C
+c-acse ANSI C. Port
+cadis- Cadis License Management
+cadkey-licman Cadkey License Manager
+cadkey-tablet Cadkey Tablet Daemon
+cadlock 
+cadsi-lm Computer Aided Design Software Inc LM
+caicci 
+caids-sensor caids sensors channel
+cajo-discovery cajo reference discovery
+can-nds IBM Tivole Directory Service - NDS
+canna Canna (Japanese Input)
+canocentral Cano Central 
+capioverlan CAPIoverLAN
+cardax CARDAX
+cas 
+casanswmgmt CA SAN Switch Management
+casp CAC App Service Protocol
+caspssl CAC App Service Protocol Encripted
+catchpole Catchpole port
+cbserver CB Server
+ccex ClearCommerce Engine .x ( www.clearcommerce.com)
+ccmail cc:mail/lotus
+ccmcomm CCM communications port
+ccproxy-ftp CCProxy FTP Proxy
+ccproxy-http CCProxy HTTP/Gopher/FTP (over HTTP) proxy
+ccs-software CCS Software
+cdbroker CD Broker
+celatalk CelaTalk
+cernsysmgmtagt Cerner System Management Agent
+cfengine 
+cfs cryptographic file system (nfs) (proposed)
+cgms CGMS
+checksum CheckSum License Manager
+chimera-hwm Chimera HWM
+chromagrafx 
+ci-software- CI-Software-
+cichild-lm 
+cimtrak CimTrak
+ciphire-serv Ciphire Services
+cisco FNATIVE
+cisco SYSMAINT
+cisco-ipsla Cisco IP SLAs Control Protocol
+cisco-sccp cisco SCCP (Skinny Client Control Protocol)
+cisco-tdp Cisco TDP
+citrix-ica 
+citriximaclient Citrix MA Client
+cl-db-attach Classic Line Database Server Attach
+clariion-evr 
+clp Cisco Line Protocol
+cluster-disc Cluster Disc
+clvm-cfg 
+cm Context Management
+cnrprotocol Common Name Resolution Protocol
+codasrv 
+codasrv-se 
+cognex-insight 
+com-net-mgmt COM Net Management
+commlinx-avl CommLinx GPS / AVL System
+commonspace 
+commplex-link 
+comotionback CoMotion Backup Server
+comotionmaster CoMotion Master Server
+compaq-https Compaq HTTPS
+compaqdiag Compaq remote diagnostic/management
+con 
+conf 
+conferencetalk ConferenceTalk 
+config-port Configuration Port
+confluent Confluent License Manager
+connect-proxy Many HTTP CONNECT proxies
+connection Dell Connection
+connlcli 
+contclientms Container Client Message Service
+contentserver Content Server
+controlit Remotely possible
+corbaloc Corba
+corelccam Corel CCam
+corelvideo CORELVIDEO
+cpdlc Controller Pilot Data Link Communication
+cplscrambler-al CPL Scrambler Alarm Log
+cplscrambler-in CPL Scrambler Internal
+cplscrambler-lg CPL Scrambler Logging
+crystalenterprise Seagate Crystal Enterprise
+crystalreports Seagate Crystal Reports
+csd-mgmt-port ContinuStor Manager Port
+csdm 
+csdmbase 
+csms CSMS
+cspmlockmgr CSPMLockMgr
+cspuni 
+csrpc centrify secure RPC
+cst-port CST - Configuration & Service Tracker
+csvr-proxy ConServR Proxy
+ctsd MyCTS server port
+cuillamartin CuillaMartin Company
+cvc 
+cvmmon CVMMON
+cvspserver CVS network server
+cyaserv 
+cycleserv 
+d-cinema-rrp D-Cinema Request-Response
+d-data-control Diagnostic Data Control
+d-nfsd 
+dBASE Unix
+dCache Access Protocol
+dandv-tester D and V Tester Control Port
+danf-ak AK Product
+dayliteserver Daylite Server
+dberegister 
+dbreporter Integrity Solutions
+dbsa-lm DBSA License Manager
+dc or nfr web queries
+dca 
+dcs 
+dcsoftware DataCore Software
+dcutility Dev Consortium Utility
+ddrepl Data Domain Replication Service
+ddt Dynamic DNS tools
+dec-notes DEC Notes
+dectalk 
+dellwebadmin- Dell Web Admin 
+delta-mcp 
+demon
+deslogin encrypted symmetric telnet/login
+deslogind 
+dhcp-failover dhcp-failover 
+diagmond 
+diameter DIAMETER
+dict Dictionary service (RFC)
+dif-port Distributed Framework Port
+direcpc-video DirecPC Video
+directv-web Direct TV Webcasting
+distccd Distributed compiler daemon
+dj-ilm DJ ILM
+dkernel D Kernel Port
+dl_agent DirectoryLockdown Agent
+dlsrap Data Link Switching Remote Access Protocol
+dlsrpn Data Link Switch Read Port Number
+dlswpn Data Link Switch Write Port Number
+dmidi DMIDI
+dnet-keyproxy A closed-source client for solving the RSA cryptographic challenge. This is the keyblock proxy port.
+dnet-tstproxy distributed.net (a closed source crypto-cracking project) proxy test port
+dnox DNOX
+dnx Distributed Nagios Executor Service
+docstor 
+dossier Dossier Server
+dpm DPM Communication Server
+dproxy 
+drip Dynamic Routing Information Protocol
+drp DRP
+ds-lm 
+ds-srvr ASIGRA Televaulting DS-System Service
+dsc Distributed Service Coordinator
+dtp DIRECWAY Tunnel Protocol
+dtpt Desktop Passthru Service
+dtspc CDE subprocess control
+dtv-chan-req DTV Channel Request
+dvapps Docsvault Application Service
+dvbservdsc DVB Service Discovery
+dvl-activemail DVL Active Mail
+dvr-esm March Networks Digital Video Recorders and Enterprise Service Manager products
+dxadmind CA Administration Daemon
+dxmessagebase DX Message Base Transport Protocol
+dxspider linking protocol
+dyna-access Dyna Access
+dynamicd DYNAMICD
+e-builder e-Builder Application Communication
+e-woa Ericsson Web on Air
+eRunbook Agent
+eZmeeting
+ea EA
+eapsp EPSON Advanced Printer Share Protocol
+ecolor-imager E-Color Enterprise Imager
+edb-server EDB Server 
+editbench Registration Network Protocol
+edonkey eDonkey file sharing (Donkey)
+eenet EEnet communications
+efficient short remote operations
+efi-mg Easy Flexible Internet/Multiplayer Games
+eicon-server Eicon Security Agent/Server
+eicon-slp Eicon Service Location Protocol
+eicon-x Eicon X/SNA Gateway
+eims-admin Eudora Internet Mail Service (EIMS) admin
+eis ESRI Image Server
+eisp ESRI Image Service
+eklogin Kerberos (v) encrypted rlogin
+ekshell Kerberos (v) encrypted rshell
+elatelink ELATELINK
+elcsd errlog copy/server daemon
+elfiq-repl Elfiq Replication Service
+eli ELI - Event Logging Integration
+elm-momentum Elm-Momentum
+els E.L.S., Event Listener Service
+emcads EMCADS Server Port
+emperion Emperion
+emprise-lsc License Server Console
+encrypted_admin encrypted admin requests
+enl-name ENL-Name
+enpp ENPP
+entomb 
+entrust-ash Entrust Administration Service Handler
+entrustmanager EntrustManager - NorTel DES auth network see 
+eoss EOSS
+ep-nsp EPSON Network Screen Port
+epmd Erlang Port Mapper Daemon
+epp Extensible Provisioning Protocol
+eppc Remote AppleEvents/PPC Toolbox
+equationbuilder Digital Tool Works (MIT)
+esl-lm ESL License Manager
+esp eSilo Storage Protocol
+esri_sde ESRI SDE Instance
+essbase Essbase Arbor Software
+etebac ETEBAC 
+ets 
+ev-services Enterprise Vault Services
+event-port HTTP Event Port
+event_listener Event Listener
+ewall EWALL
+exasoftport Exasoft IP Port
+exbit-escp Exbit-ESCP
+excw eXcW
+exlm-agent EXLM Agent
+exmp eTI Extensible Management Protocol for OAMP
+exp RFC-style Experiment (*) [RFC]
+extensisportfolio Portfolio Server by Extensis Product Group
+eyetv EyeTV Server Port
+farenet Sandlab FARENET
+fasttrack Kazaa File Sharing
+faxportwinport 
+faxstfx-port FAXstfX
+fazzt-admin Fazzt Administration
+fc-cli Fujitsu Config Protocol
+fc-ser Fujitsu Config Protocol
+fcp-addr-srvr 
+fcp-srvr-inst 
+ff-annunc FF Annunciation
+ff-fms FF Fieldbus Message Specification
+ff-lr-port FF LAN Redundancy Port
+ff-sm FF System Management
+ffserver Antera FlowFusion Process Simulation
+fhc Federico Heinz Consultora
+fhsp Fujitsu Hot Standby Protocol
+filemaker Filemaker Server - http://www.filemaker.com/ti/.html
+finger GNU finger (cfingerd)
+fintrx Fintrx
+fis Flight Information Services   
+fjicl-tep-a Fujitsu ICL Terminal Emulator Program A
+fjitsuappmgr Fujitsu App Manager
+flamenco-proxy Flamenco Networks Proxy
+flexlm Flexible License Manager
+florence FLORENCE
+fmp Funambol Mobile Push 
+fmpro-fdal FileMaker, Inc. - Data Access Layer
+fmpro-v FileMaker, Inc. - Proprietary transport
+fmwp FileMaker, Inc. - Web publishing
+fnet-remote-ui FlashNet Remote Admin
+fotogcad FotoG CAD interface
+fpitp Fingerprint Image Transfer Protocol
+fpo-fns 
+freeciv 
+ftps ftp protocol, control, over TLS/SSL
+ftps-data ftp protocol, data, over TLS/SSL
+ftranhc FTRANHC
+ftsrv 
+fujitsu-dev Fujitsu Device Control
+fujitsu-dtc Fujitsu Systems Business of America, Inc
+funk-dialout Funk Dialout
+funkproxy Funk Software, Inc.
+fuscript Fusion Script
+galaxy-network Galaxy Network Service
+galileolog Netvion Galileo Log Port
+garcon 
+gdp-port cisco Gateway Discovery Protocol
+gds_db 
+genie-lm Genie License Manager
+geognosisman Cadcorp GeognoSIS Manager Service
+gf Grid Friendly
+gilatskysurfer Gilat Sky Surfer
+globalcatLDAP Global Catalog LDAP
+globalcatLDAPssl Global Catalog LDAP over ssl
+globe 
+gmrupdateserv GMRUpdateSERV
+gnunet GNUnet
+gnutella Gnutella file sharing protocol
+goahead-fldup GoAhead FldUp
+goldleaf-licman Goldleaf License Manager
+gpfs General Parallel File System
+gridgen-elmd 
+gris Grid Resource Information Server
+groove GROOVE
+groove-dpp Groove DPP
+gsiftp GSI FTP
+gsigatekeeper GSIGATEKEEPER
+gsmp GSMP 
+gv-us GlobalView to Unix Shell
+gvcp GigE Vision Control
+gwha GW Hannaway Network License Manager
+h-annex-g H.. Annex G
+ha-cluster 
+hacl-cfg HA cluster configuration
+hacl-gs HA cluster general services
+hacl-hb HA cluster heartbeat
+hacl-probe HA cluster probing
+health-trap Health Trap
+hecmtl-db 
+here-lm Here License Manager
+hermes 
+hfcs HyperFileSQL Client/Server Database Engine 
+hfcs-manager HyperFileSQL Client/Server Database Engine Manager
+hhb-gateway HHB Gateway Control
+hhostcallsc H Host Call Secure
+hippad HIPPA Reporting Protocol
+hiq HiQ License Manager
+hks-lm HKS License Manager
+homeportal-web Home Portal Web Server
+hostnames NIC Host Name Server
+hotline 
+hotline Hotline file sharing client/server
+hp performance data alarm manager
+hp--telnet HP NS/VT block mode telnet
+hp-collector hp performance data collector
+hp-managed-node hp performance data managed node
+hp-sci 
+hp-server HP Server
+hp-status HP Status
+hp-webadmin HP Web Admin
+hpidsadmin HPIDSADMIN
+hppronetman HP Procurve NetManagement
+hpss-ndapi HPSS NonDCE Gateway
+hpvirtgrp HP Virtual Machine Group Management
+hpvmmagent HP VMM Agent
+hpvmmcontrol HP VMM Control
+hpvmmdata HP VMM Agent
+hri-port HRI Interface Port
+husky Husky
+hybrid Hybrid Encryption Protocol
+hyperip HyperIP
+hyperwave-isp Hyperwave-ISP
+i-sessionmgr I Session Manager
+iMQ Broker Rendezvous
+iPulse-ICS
+iRDMI
+iSCSI
+iad BBN IAD
+ianywhere-dbns iAnywhere DBNS
+iapp IAPP (Inter Access Point Protocol)
+iascontrol Oracle iASControl
+iascontrol-oms iasControl OMS
+ibm-cics 
+ibm-dt- 
+ibm-mgr ibm manager service
+ibm-mqseries IBM MQSeries
+ibm-pps IBM Person to Person Software
+ibm-res IBM Remote Execution Starter
+ibm_wrless_lan IBM Wireless LAN
+icg-swp ICG SWP Port
+ici ICI
+iclcnet-locate ICL coNETion locate server
+iclcnet_svinfo ICL coNETion server info
+iclpv-dm Document Manager
+iclpv-nlc Network Log Client
+iclpv-nls Network Log Server
+iclpv-sas Storage Access Server
+iclpv-sc Storage Controller
+iclpv-wsm PC Workstation Manager software
+iconp ict-control Protocol
+icslap Universal Plug and Play Device Host, SSDP Discovery Service
+ida-agent Symantec Intruder Alert
+idcp IDCP
+identify 
+ieee-mms-ssl IEEE-MMS-SSL
+ies-lm Integrated Engineering Software
+ifor-protocol 
+ifsf-hb-port IFSF Heartbeat Port
+igi-lm Infinite Graphics License Manager
+igo-incognito IGo Incognito Data Port
+igrs IGRS
+iims Icona Instant Messenging System
+iiop name service over tls/ssl 
+imaps imap protocol over TLS/SSL
+imgames IMGames
+imoguia-port Imoguia Port
+imtc-mcs Databeam
+imyx Infomatryx Exchange
+indigo-server Indigo Home Server
+indy Indy Application Server
+infiniswitchcl InfiniSwitch Mgr Client
+infoman IBM Information Management
+informer INFORMER
+infowave Infowave Mobility Server
+ingreslock ingres
+innosys 
+innosys-acl 
+instantia Instantia
+instl_bootc Installation Bootstrap Proto. Cli.
+instl_boots Installation Bootstrap Proto. Serv.
+int-rcv-cntrl Integrated Rcvr Control
+intellistor-lm Intellistor License Manager
+interhdl_elmd interHDL License Manager
+internet relay chat server
+intersan 
+intersys-cache Cache
+intuitive-edge Intuitive Edge
+invision InVision
+invokator 
+ip-qsig IP Q signaling protocol
+ipcd IPCD
+ipetherport ipEtherPort
+ircs irc protocol over TLS/SSL
+iris-beep IRIS over BEEP
+iris-lwz IRIS-LWZ
+iris-xpc IRIS over XPC
+iris-xpcs IRIS over XPCS
+isbconference 
+ischat Instant Service Chat
+iscsi iSCSI
+isdninfo 
+isdninfo ilmond
+isg-uda-server ISG UDA Server
+ismc ISP shared management control
+isoipsigport- ISOIPSIGPORT-
+isqlplus Oracle web enabled SQL interface (version g+)
+isrp-port SPACEWAY Routing port
+iss-console-mgr ISS Console Manager
+iss-mgmt-ssl ISS Management Svcs SSL
+iss-realsec ISS RealSecure IDS Remote Console Admin port
+iss-realsecure ISS RealSecure Sensor
+issd 
+ita-manager ITA Manager
+item IT Environmental Monitor
+itinternet ITInternet ISM Server
+itm-mcell-s 
+ito-e-gui ITO-E GUI
+itv-control ITV Port
+ivmanager 
+ivs-video IVS Video default
+ivsd IVS Daemon
+java-or-OTGfileshare JEE nameserver, also OTG, also called Disk/Application extender. Could also be MiniCommand backdoor OTGlicenseserv
+jaxer-manager Jaxer Manager Command Protocol
+jmact JAMCT
+jstel JSTEL
+jtag-server JTAG server
+kauth Remote kauth
+kdm K Display Manager (KDE version of xdm)
+kdm Key Distribution Manager
+kerberos kdc Kerberos (v)
+kerberos-adm Kerberos admin/changepw
+kerberos_master Kerberos `kadmin' (v)
+kingfisher Kingfisher protocol
+kink Kerberized Internet Negotiation of Keys (KINK)
+kiosk KIOSK
+kip IP over kerberos
+kjtsiteserver 
+kme-trap-port KME PRINTER TRAP PORT
+knetd 
+konspireb konspireb pp network
+kpasswd kpwd Kerberos (v) "passwd"
+kpop Pop with Kerberos
+krb_prop kerberos/v server propagation
+krbgatekeeper 
+krbupdate kreg Kerberos (v) registration
+krcmd Kerberos (v/v)
+kvm-via-ip KVM-via-IP Management Service
+kx X over kerberos
+kyoceranetdev KyoceraNetDev
+l-l 
+landesk-rc LANDesk Remote Control 
+landmarks Landmark Messages
+lanmessenger LanMessenger
+lanrevserver LANrev Server
+laplink 
+lecroy-vicp LeCroy VICP
+liberty-lm 
+licensedaemon cisco license management
+linx 
+lisp-cons LISP-CONS Control
+lispworks-orb LispWorks ORB
+listcrt-port ListCREATOR Port
+listcrt-port- ListCREATOR Port 
+listen System V listener port
+llsurfup-http LL Surfup HTTP
+llsurfup-https LL Surfup HTTPS
+lmdp LMDP
+lmfcd server
+lmp Link Management Protocol (LMP)
+lms Location Message Service
+lmsocialserver LM Social Server
+lnvpoller LNVPOLLER
+lockd 
+lofr-lm Leap of Faith Research License Manager
+lonewolf-lm Lone Wolf Systems License Manager
+lorica-in Lorica inside facing
+lotusmtap Lotus Mail Tracking Agent Protocol
+lotusnotes Lotus Note
+lrs-paging LRS NetPage
+lsi-raid-mgmt LSI RAID Management
+lsnr Oracle DB listener
+lsp-ping MPLS LSP-echo Port
+ltp-deepspace Licklider Transmission Protocol
+lupa 
+lutap Technicolor LUT Access Protocol
+lv-ffx Live Vault Fast Object Transfer
+m-image-lm Image Storage license manager M Company
+magicnotes 
+mailbox 
+mailprox Mailprox
+maitrd 
+mao 
+mapper-mapethd MAPPER TCP/IP server
+mapper-nodemgr MAPPER network node manager
+mapper-ws_ethd MAPPER workstation server
+marcam-lm Marcam License Management
+maybe-veritas 
+mc-client Millicent Client Proxy
+mciautoreg 
+mcns-tel-ret MCNS Tel Ret
+mctp MCTP
+mdbs_daemon  
+mdns Multicast DNS
+meetingmaker Meeting maker time management software
+mesavistaco Mesa Vista Co
+meta-corp Meta Corporation License Manager
+metaconsole MetaConsole
+metasage MetaSage
+metricadbc MetricaDBC
+mib-streaming Sonus Element Management Services
+mikey MIKEY
+mimer 
+mini-sql Mini SQL
+minilock Minilock
+miroconnect 
+miteksys-lm Miteksys License Manager
+miva-mqs mqs
+mkm-discovery MARKEM Auto-Discovery
+mlchat-proxy mlnet - MLChat PP chat proxy
+mloadd mloadd monitoring tool
+mmcals Secure Meeting Maker Scheduling
+mmcc multimedia conference control tool
+mnp-exchange MNP data exchange
+molly EPI Software Systems
+mon MON
+montage-lm Montage License Manager
+mosmig OpenMOSix MIGrates local processes
+movaz-ssc Movaz SSC
+mpc-lifenet MPC LIFENET
+mppolicy-mgr 
+mppolicy-v 
+mpshrsv 
+mqe-broker MQEnterprise Broker
+ms-lsa 
+ms-olap 
+ms-olap MS OLAP 
+ms-olap SQL Server Downlevel OLAP Client Support
+ms-sql-m Microsoft-SQL-Monitor
+ms-sql-s Microsoft-SQL-Server
+ms-v-worlds MS V-Worlds
+ms-wbt-server Microsoft Remote Display Protocol (aka ms-term-serv, microsoft-rdp)
+msdfsr Microsoft DFS Replication Service
+msdtc MS distributed transaction coordinator
+msdts DTS Service Port
+msfw-control MS Firewall Control
+mshvlm Microsoft Hyper-V Live Migration
+msl_lmd MSL License Manager
+msmq Microsoft Message Queuing
+msmq-mgmt Microsoft Message Queuing (IANA calls this bintec-admin)
+msnp MSN Messenger
+msolap-ptp SQL Analysis Server
+msp MSP
+msql mini-sql server
+msr-plugin-port MSR Plugin Port
+mtp Starlight Networks Multimedia Transport Protocol
+mtqp Message Tracking Query Protocol
+multidropper A Multidropper Adware, or PhoneFree
+multiling-http Multiling HTTP
+munin Munin Graphing Framework
+mupdate Mailbox Update (MUPDATE) protocol
+murray Murray
+musiconline Musiconline
+must-backplane MUST Backplane
+must-pp MUST Peer to Peer
+mvx-lm Midland Valley Exploration Ltd. Lic. Man.
+mxomss User Message Service
+myblast myBLAST Mekentosj port
+mysql mySQL
+mysql-cluster MySQL Cluster Manager
+mysql-cm-agent MySQL Cluster Manager Agent
+n-fwp N-FWP
+naap NAAP
+nacagent Network Access Control Agent
+nas Netnews Administration System
+nati-svrloc NATI-ServiceLocator
+nati-vi-server NATI Vi Server
+nav-port Navini Port
+nbt-pc Policy Commander
+nbx-dir NBX DIR
+nbx-ser NBX SER
+ncacn-ip-tcp 
+ncadg-ip-udp 
+ncd-conf NCD configuration telnet port
+ncd-diag NCD diagnostic telnet port
+ncd-diag-tcp NCD diagnostic tcp port
+ncd-pref NCD preferences telnet port
+ncd-pref-tcp NCD preferences tcp port
+ncdmirroring NCD Mirroring
+ndm-requester Network DataMover Requester
+ndm-server Network DataMover Server
+ndsconnect Niche Data Server Connect
+ndtp NDTP
+neod Sun's NEO Object Request Broker
+nerv SNI R&D network
+nessus Nessus Security Scanner (www.nessus.org) Daemon or chili!soft asp
+nessus Nessus or remote message server
+netaspi NET ASPI
+netassistant Apple Remote Desktop Net Assistant reporting feature
+netbill-auth NetBill Authorization Server
+netboot-pxe PXE NetBoot Manager
+netcheque NetCheque accounting
+netconf-beep NETCONF over BEEP
+netconf-ssh NETCONF over SSH
+netconfsoapbeep NETCONF for SOAP over BEEP
+netconfsoaphttp NETCONF for SOAP over HTTPS
+netcp NETscout Control Protocol
+neteh Netadmin Systems Event Handler
+netgw 
+netinfo Netinfo is apparently on many OS X boxes.
+netmagic Network Magic
+netmap_lm 
+netml NETML
+netmon Dell Netmon
+netmpi Netadmin Systems MPI service
+neto-dcs netO DCS
+neto-wol-server netO WOL Server
+netop-school NetOp School
+netopia-vo 
+netrcs Network based Rev. Cont. Sys.
+netrisk NETRISK
+netsaint Netsaint status daemon
+netscript Netadmin Systems NETscript service
+netvenuechat Nortel NetVenue Notification, Chat, Intercom
+netware-csp Novell NetWare Comm Service Platform
+networklenss NetworkLens SSL Event
+netxms-agent NetXMS Agent
+newdate
+newoak NewOak
+news 
+nfs networked file system
+nfsd-status Cluster status info
+nhci NHCI status port
+nicelink NICELink
+nicetec-mgmt 
+nim 
+nimaux NIMsh Auxiliary Port
+nimreg 
+nimsh NIM Service Handler
+nlogin 
+nmap NMAP
+nms Hypercom NMS
+nms_topo_serv 
+nmsd NMSD
+novastor backup
+novation Novation
+novell-lu. Novell LU.
+nowcontact Now Contact Public Server
+npds-tracker NPDS Tracker
+nppmp NVIDIA Mgmt Protocol
+nrcabq-lm Nichols Research Corp.
+nrpe Nagios NRPE
+nsp NetOnTap Service
+nsstp Nebula Secure Segment Transfer Protocol
+nst Network Scanner Tool FTP
+nuauth NuFW authentication protocol
+nucleus-sand Nucleus Sand Database Server
+nut Network UPS Tools
+nuts_bootp NUTS Bootp Server
+nuts_dem NUTS Daemon
+nvmsgd Netvion Messenger Port
+nw-license NavisWorks License System
+objective-dbc Objective Solutions DataBase Cache
+obrpd Open Business Reporting Protocol
+oc-lm OpenConnect License Manager
+oceansoft-lm Ocean Software License Manager
+odsi Optical Domain Service Interconnect (ODSI)
+oem-agent OEM Agent
+oftep-rpc Often RPC.statd (on Redhat Linux)
+oidsr Document Replication
+oirtgsvc Workflow Server
+olsr OLSR
+omasgport OMA BCAST Service Guide
+omfs OpenMosix File System
+omginitialrefs OMG Initial Refs
+omhs Operations Manager - Health Service
+omnilink-port Arnet Omnilink Port
+omnivision OmniVision Communication Service
+omscontact OMS Contact
+omserv 
+onscreen OnScreen Data Collection Service
+ontime 
+ooRexx rxapi services 
+openmath 
+opennl-voice Open Network Library Voice
+openvpn OpenVPN
+opsession-prxy OP Session Proxy
+opsession-srvr OP Session Server
+optilogic OptiLogic
+optima-vnet 
+ora-lm Optical Research Associates License Manager
+oracle Oracle Database
+oracle-oms Oracle OMS
+oracle-vp Oracle-VP
+orasrv oracle or Prospero Directory Service non-priv
+orbix-loc-ssl Orbix Locator SSL
+os-licman Objective Solutions License Manager
+ospfd OSPFd vty
+ov-nnm-websrv OpenView Network Node Manager WEB Server
+ovsam-d-agent hp OVSAM HostAgent Disco
+ovsam-mgmt hp OVSAM MgmtServer Disco
+ovtopmd OVTOPMD
+pacerforum 
+pacmand Pacmand
+pammratc PAMMRATC
+paradym- 
+park-agent 
+parsec-master Parsec Masterserver
+partimage Partition Image Port
+patrol-ism PATROL Internet Srv Mgr
+pcanywheredata 
+pcanywherestat 
+pcduo RemCon PC-Duo - new port
+pcduo-old RemCon PC-Duo - old port
+pciarray 
+pclemultimedia PCLE Multi Media
+pcm PCM Agent (AutoSecure Policy Compliance Manager
+pdap-np Prospero Data Access Prot non-priv
+pdps Photoscript Distributed Printing System
+pe-mike 
+peerenabler PPNetworking/PeerEnabler protocol
+pegboard Electronic PegBoard
+pehelp 
+peport 
+perf-port cisco perf port
+phonebook phone
+picknfs 
+pip PIP
+pipes Pipes Platform
+pkagent PKAgent
+pkix--ca-ra PKIX- CA/RA
+pktcable-cops PktCable-COPS
+pktcablemmcops PacketCableMultimediaCOPS
+plan file service
+pn-requester PN REQUESTER
+pn-requester PN REQUESTER 
+polestar 
+pops POP protocol over TLS/SSL
+portmapper, rpcbind
+postgresql PostgreSQL database server
+powerchute 
+poweronnud Now Up-to-Date Public Server
+ppcontrol PowerPlay Control
+ppp User-level ppp daemon, or chili!soft asp
+ppq ppQ
+ppsms PPS Message Service
+pptconference 
+pptp Point-to-point tunnelling protocol
+prat PRAT
+presence XMPP Link-Local Messaging
+printer_agent Printer Agent
+privateark PrivateArk
+privatechat PrivateChat 
+prm-nm-np Prospero Resource Manager
+prm-sm-np Prospero Resource Manager
+prnstatus Printer Status Port
+proaxess ProAxess Server
+proofd PROOFD
+propel-msgsys PROPEL-MSGSYS
+proshare Proshare Notebook Application
+proshareaudio proshare conf audio
+prosharenotify proshare conf notify
+prosharevideo proshare conf video
+proxima-lm Proxima License Manager
+ps-ams PlayStation AMS (Secure)
+psi-ptt PSI Push-to-Talk Protocol
+pt-discover PT-DISCOVER
+ptk-alink ParaTek Agent Linking
+pulseaudio Pulse Audio UNIX sound framework
+pvuniwien PVUNIWIEN
+pwgpsi Print Services Interface
+pxc-pin 
+pxc-roid 
+pxc-splr 
+pxc-splr-ft 
+pxc-spvr 
+pyrrho Pyrrho DBMS 
+qip-login 
+qnts-orb QNTS-ORB
+qrh 
+qsm-gui QSM GUI Service
+qsm-proxy QSM Proxy Service
+qsm-remote QSM RemoteExec
+qsnet-assist QSNet Assistant
+qsnet-cond QSNet Conductor
+qsnet-nucl QSNet Nucleus
+qsnet-workst QSNet Workstation
+qtms-bootstrap QTMS Bootstrap Protocol
+quasar-server Quasar Accounting Server
+quickbooksrds QuickBooks RDS
+quicktime Apple Darwin and QuickTime Streaming Administration Servers
+quotad 
+radius RADIUS
+radius-dynauth RADIUS Dynamic Authorization
+radmin Radmin (www.radmin.com) remote PC control software
+radmind Radmind protocol
+radsec Secure Radius Service
+raid-cc raid 
+rap-ip Rhapsody Interface Protocol
+rap-listen 
+ratio-adp 
+ratl RATL
+raven-rmp Raven Remote Management Control
+rdrmshc RDRMSHC
+rds 
+re-conn-proto RE-Conn-Proto
+rebol REBOL
+registrar resource monitoring service
+relief Relief Consulting
+remote-as Remote Assistant (RA)
+remote-collab 
+remoteanything neoworx remote-anything slave file browser
+remoteanything neoworx remote-anything slave remote control
+rendezvous Rendezvous Zeroconf (used by Apple/iTunes)
+resacommunity Community Service
+resvc The Microsoft Exchange Server Routing Service
+rfa remote file access server
+rfe Radio Free Ethernet
+rfs, rfs_server, Brunhoff remote filesystem
+rfx-lm 
+rhp-iibp 
+rightbrain RightBrain Software
+ripd RIPd vty
+ris-cm Russell Info Sci Calendar Manager
+rkinit Kerberos (v) remote initialization
+rlm RLM License Server
+rlm-admin RLM administrative interface
+rmiactivation RMI Activation
+rmiregistry RMI Registry
+rmonitor_secure 
+rmonitord
+rmpp Datalode RMPP
+rna-lm Ricardo North America License Manager
+rndc RNDC is used by BIND (& probably other NS) 
+robcad-lm Robcad, Ltd. License Manager
+roboeda roboEDA
+roketz 
+rootd ROOTD
+routematch RouteMatch Com
+rpasswd 
+rpc
+rrac Remote Replication Agent Connection
+rrh 
+rsf- RSF- clustering
+rsom RSOM
+rsqlserver REAL SQL Server
+rsvp-encap- RSVP-ENCAPSULATION- 
+rsync Rsync server ( http://rsync.samba.org ) 
+rtcm-sc 
+rtip 
+rtmp Macromedia FlasComm Server
+rtraceroute Remote Traceroute
+rtsclient Resource Tracking system client
+rtsserv Resource Tracking system server
+rushd RUSHD
+rwhois Remote Who Is
+rww Microsoft Remote Web Workplace on Small Business Server
+rxmon 
+sacred SACRED
+saft Simple Asynchronous File Transfer
+sah-lm S A Holditch & Associates - LM
+samba-swat Samba SWAT tool. Also used by ISS RealSecure.
+samsung-unidex Samsung Unidex
+sapcomm SAPcomm
+sapeps SAP EPS
+saphostctrl SAPHostControl over SOAP/HTTP
+saposs SAP Oss
+saprouter SAProuter
+sas- Satellite-data Acquisition System 
+sasggprs SASG GPRS
+sasp Server/Application State Protocol (SASP)
+satvid-datalnk Satellite Video Data Link
+sbi-agent SBI Agent Protocol
+sbl Streamlined Blackhole
+sbook Registration Network Protocol
+scanstat- scanSTAT .
+scientia-sdb Scientia-SDB
+scol SCOL
+scp Siemens AuD SCP
+screencast 
+scservp Customer Service Port
+sdadmind ACE/Server services
+sddp SmartDialer Data Protocol
+sde-discovery ESRI SDE Instance Discovery
+sdl-ets SDL - Ent Trans Server
+sdlog ACE/Server services
+sdo-ssh Simple Distributed Objects over SSH
+sdp-portmapper SDP Port Mapper Protocol
+sdproxy 
+sdsc-lm 
+sdserv ACE/Server services
+sdt-lmd SDT License Manager
+seagull-ais SEAGULL AIS
+seagulllms SEAGULLLMS
+search Or nfr
+secure http (SSL)
+secureidprop ACE/Server services
+securenetpro-sensor  
+sentinel-ent Sentinel Enterprise
+sentinelsrm SentinelSRM
+serialgateway SerialGateway
+servergraph 
+servistaitsm SerVistaITSM
+sflm SFLM
+sftsrv 
+sgi-dgl SGI Distributed Graphics
+sgi-esphttp SGI ESP HTTP
+sgi-eventmond SGI Eventmond Port
+shivadiscovery Shiva
+shivahose Shiva Hose
+sieve ManageSieve Protocol
+sightline SightLine
+silc Secure Internet Live Conferencing -- http://silcnet.org
+silverpeakcomm Silver Peak Communication Protocol
+simba-cs 
+simbaexpress 
+sip Session Initiation Protocol (SIP)
+sip-tls SIP-TLS
+sitaradir Sitara Dir
+sitewatch e-Watch Corporation SiteWatch
+sixtrak 
+sj SJ (kanji input)
+skkserv SKK (kanji input)
+slim-devices Slim Devices Protocol
+slnp SLNP (Simple Library Network Protocol) by Sisis Informationssysteme GmbH
+slp Salutation Manager (Salutation Protocol)
+slslavemon SoftlinK Slave Mon Port
+smap Service Manager
+smauth-port AMS Port
+smile SMILE TCP/UDP Interface
+sms-rcinfo 
+sms-xfer 
+smtp protocol over TLS/SSL (was ssmtp) 
+smwan Smith Micro Wide Area Network Service
+snmp-tcp-port cisco SNMP TCP port
+snmp-trap
+sns_credit Shared Network Services (SNS) for Canadian credit card authorizations
+soagateway soaGateway
+socks 
+softaudit Isogon SoftAudit
+softcm HP SoftBench CM
+soniqsync SoniqSync
+sophia-lm Sophia License Manager
+sops S-Ops Management
+sor-update Soronti Update Port
+spamassassin Apache SpamAssassin spamd
+spc HP SoftBench Sub-Process Control
+spcsdlobby SPCSDLOBBY
+spectraport SpectraTalk Port
+spt-automation Support Automation 
+spw-dialer Spaceway Dialer
+spw-dnspreload SPACEWAY DNS Preload
+sqdr SQDR
+squid-http 
+sscan SONY scanning protocol
+ssdispatch Scott Studios Dispatch
+sse-app-config SSE App Configuration
+sslp Simple Socket Library's PortMaster
+ssmc Sepehr System Management Control
+sso-control SSO Control
+sso-service SSO Service
+ssserver Sun StorEdge Configuration Service
+ssslog-mgr Log Request Listener
+stanag- STANAG--SUBNET-INTF
+starfish Starfish System Admin
+starquiz-port starQuiz Port
+starschool starSchool
+startron STARTRON
+stat-cc STAT Command Center
+statsci-lm StatSci License Manager - 
+statusd StatusD
+stm_pproc 
+stone-design- 
+streetperfect StreetPerfect
+stt 
+stun-p cisco STUN Priority port
+stun-port cisco serial tunnel port
+submit 
+sun-as-iiops-ca Sun App Svr-IIOPClntAuth
+sun-manageconsole Solaris Management Console Java listener (Solaris & )
+sunclustermgr Sun Cluster Manager
+supfiledbg SUP debugging
+support prmsd gnatsd # cygnus bug tracker
+surfcontrolcpa SurfControl CPA
+svn Subversion
+svnetworks SV Networks
+sweetware-apps SweetWARE Apps
+swldy-sias 
+syam-webserver Syam Web Server Port
+sybase Sybase database
+sybasedbsynch SybaseDBSynch
+symantec-av Symantec AntiVirus (rtvscan.exe)
+symb-sb-port Symbian Service Broker
+symplex 
+synchronet-db SynchroNet-db
+syscomlan SYSCOMLAN
+sysopt SYSOPT
+tabula 
+taep-as-svc TAEP AS service
+talarian-mcast Talarian Mcast
+taligent-lm Taligent License Manager
+tapeware Yosemite Tech Tapeware
+targus-getdata TARGUS GetData
+targus-getdata TARGUS GetData 
+tbrpf TBRPF
+tcoflashagent TCO Flash Agent
+tcoregagent TCO Reg Agent
+tcp-id-port cisco identification port
+td-postman Tobit David Postman VPMN
+tdaccess TDAccess
+tdmoip TDM OVER IP
+telefinder 
+telelpathattack 
+telelpathstart 
+telnets telnet protocol over TLS/SSL
+tgp TrulyGlobal Protocol
+thrp Teran Hybrid Routing Protocol
+tick-port Press-sense Tick Port
+tig TetraNode Ip Gateway
+timbuktu-srv Timbuktu Service Port
+timeflies 
+timeserver
+tiny personal firewall admin port 
+tivoconnect TiVoConnect Beacon
+tl-raw-ssl TL Raw Over SSL/TLS 
+tld server
+tlisrv oracle
+tmosms T-Mobile SMS Protocol Message 
+tn-tl-fd 
+tn-tl-r 
+tnp-port TNP User Port
+tolteces Toltec EasyShare
+topovista-data TopoVista elevation data
+topx TOP/X
+tpdu Hypercom TPDU
+tqdata 
+tr-rsrb-p cisco RSRB Priority port
+tr-rsrb-port cisco Remote SRB port
+trap TRAP Port
+trap-daemon text relay-answer
+travsoft-ipx-t Travsoft IPX Tunnel
+tributary Tributary
+trim TRIM Workgroup Service
+triomotion Trio Motion Control Port
+tripwire TRIPWIRE
+trusted-web Trusted Web
+tsap ISO-TSAP Class 
+tscchat TSCCHAT
+tsdd server
+tshd server
+tsp Tunnel Setup Protocol
+tvbus TvBus Messaging
+twrpc Wire RPC
+uaiact Universal Analytics
+udemon 
+udt_os Unidata UDT OS
+ultrex Ultrex
+unicall 
+unieng Steltor's calendar access
+unisys-lm Unisys Natural Language License Manager
+univ-appserver Universal App Server
+unizensus Unizensus Login Server
+unknown 
+unot UNOT
+upnotifyp UPNOTIFYP
+upnp Universal PnP
+upnp Universal PnP, also Free Internet Chess Server
+us-gv Unix Shell to GlobalView
+uucpd
+uuidgen UUIDGEN
+valisys-lm Valisys License Manager
+vat VAT default data
+vat-control VAT default control
+vatp Velazquez Application Transfer Protocol
+vchat VChat Conference Service
+venus 
+venus-se 
+veracity 
+veritas-ucl Veritas Universal Communication Layer
+veritas_pbx VERITAS Private Branch Exchange
+vfo VFO
+vid 
+video-activmail Video Active Mail
+videte-cipc Videte CIPC Port
+virtual-places Virtual Places Software
+virtualuser VIRTUALUSER
+visionpyramid VisionPyramid
+vistium-share 
+vlsi-lm VLSI License Manager
+vmd server
+vmodem 
+vmrdp Microsoft RDP for virtual machines
+vnc Virtual Network Computer display 
+vnc- Virtual Network Computer display 
+vnc-http Virtual Network Computer HTTP Access, display 
+vnc-http- Virtual Network Computer HTTP Access, display 
+vopied client
+vpac Virtual Places Audio control
+vpad Virtual Places Audio data
+vpvc Virtual Places Video control
+vpvd Virtual Places Video data
+vrml-multi-use VRML Multi User Systems
+vrts-ipcserver 
+vrxpservman Multum Service Manager
+vs-server VS Server
+vtsas VersaTrans Server Agent Service
+vxcrnbuport VxCR NBU Default Port
+wag-service Wag Service
+wais, ANSI Z.
+wanscaler WANScaler Communication Service
+wap-push-http WAP Push OTA-HTTP port
+wap-push-https WAP Push OTA-HTTP secure
+warmspotMgmt Warmspot Management Protocol
+waste Nullsoft WASTE encrypted PP app
+watchdog-nt WatchDog NT Protocol
+watcom-sql 
+watershed-lm Watershed License Manager
+wbem-http WBEM CIM-XML (HTTP)
+wbem-https WBEM CIM-XML (HTTPS)
+wbem-rmi WBEM RMI
+webhost 
+webmail- WebMail/
+webobjects Web Objects
+webster 
+webster Network dictionary
+westec-connect Westec Connect
+westell-stats westell stats
+wfremotertm WebFilter Remote Monitor
+wherehoo WHEREHOO 
+wincim pc windows compuserve.com protocol
+windb WinDb
+winddlb WinDD
+windows-icfw Windows Internet Connection Firewall or Internet Locator Server for NetMeeting.
+winjaserver WinJaServer
+winpharaoh WinPharaoh
+winpoplanmess Winpopup LAN Messenger
+winshadow winShadow
+wip-port BroadCloud WIP Port
+wkstn-mon WKSTN-MON
+wlanauth WLAN AS server
+wms Windows media service
+world-lm World License Manager
+worldwire Compaq WorldWire Port
+wormux Wormux server
+wpages 
+wpgs 
+writesrv 
+wrs_registry WRS Registry
+wsdapi Web Services for Devices
+wsman WBEM WS-Management HTTP
+wsmans WBEM WS-Management HTTP over TLS/SSL
+wsmlb Remote System Manager
+wysdmc WysDM Controller
+x-icue X iCue Show Control
+x-svc-port cisco X. service (XOT)
+xact-backup 
+xaudio Xaserver # X Audio Server
+xecp-node XeCP Node Service
+xgrid Xgrid
+xic Xic IPC Service
+xiip XIIP
+xingmpeg 
+xmail-ctrl XMail CTRL server
+xmpp-bosh Bidirectional-streams Over Synchronous HTTP (BOSH)
+xmpp-client XMPP Client Connection
+xmpp-server XMPP Server Connection
+xnm-clear-text XML NM over TCP
+xnm-ssl XML NM over SSL
+xpanel XPanel Daemon
+xrl XRL
+xtell Xtell messenging server
+xtreelic XTREE License Server
+yo-main Yo.net main service
+zebra zebra vty
+zebrasrv zebra service
+zented ZENworks Tiered Electronic Distribution
+zephyr-clt Zephyr serv-hm connection
+zephyr-hm Zephyr hostmanager
+zincite-a Zincite.A backdoor
