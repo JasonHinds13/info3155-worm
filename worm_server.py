@@ -152,7 +152,7 @@ def crack_password(p, host):
 
     f = open("commonpasswords", "r")
 
-    if port_list[p] == "ftp":
+    '''if port_list[p] == "ftp":
 
         attempt = raw_input("attempt ftp (yes/no)?: ")
 
@@ -173,9 +173,9 @@ def crack_password(p, host):
                         ftp.close()
                         break
                 except:
-                    pass
+                    pass'''
 
-    elif port_list[p] == "ssh":
+    if port_list[p] == "ssh":
 
         attempt = raw_input("attempt ssh crack (yes/no)?: ")
 
